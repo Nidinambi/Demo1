@@ -1,4 +1,4 @@
-/* eslint-disable no-alert ooo*/
+/* eslint-disable no-alert ooo changed*/
 import { LightningElement, wire, track } from "lwc";
 import { NavigationMixin } from "lightning/navigation";
 import Id from "@salesforce/user/Id";
